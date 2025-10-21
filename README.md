@@ -1,4 +1,3 @@
-
 local Window = Rayfield:CreateWindow({
    Name = "Mlkvitotin Hub V1",
    LoadingTitle = "🔫 Gun Simulator 💥",
